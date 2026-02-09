@@ -23,6 +23,7 @@ pytest-cov==4.1.0
 
 # Server
 gunicorn==21.2.0
+whitenoise==6.6.0
 
 # Utils
 python-dotenv==1.0.0
