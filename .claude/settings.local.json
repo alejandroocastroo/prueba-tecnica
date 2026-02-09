@@ -8,7 +8,8 @@
       "Bash(python manage.py createsuperuser:*)",
       "Bash(pytest:*)",
       "Bash(python -m pytest:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(python seed_data.py:*)"
     ]
   }
 }
